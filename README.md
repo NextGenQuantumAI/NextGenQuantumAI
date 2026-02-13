@@ -4,7 +4,7 @@
 <h align="center">Quantum Computing • I Quantum Artificial-intelligence I • Young Researcher</h3>
 
 <p align="center">
-  <img src="./quantum-ai.svg" width="600" alt="Quantum AI Visualization"/>
+  <img src="./quantum-ai.svg" width="300" alt="Quantum AI Visualization"/>
 </p>
 
 <p align="center">
